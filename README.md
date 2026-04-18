@@ -4,7 +4,7 @@
 ## Features
 - **Easy Setup:** You Can Setup The ( Channels Name, Roles Name, Spam Message) by Config.json
 - **High Speed:** Designed for maximum efficiency.
-- **Clean Code:** Well-organized and simple to use.
+- **Clean Tool:** Encrypted by Nukita | 100% Clean & Safe to use
 
 ## How to use
 1. Download the `Lax Group Nuker.rar` file.
@@ -14,3 +14,10 @@
 
 ---
 [Check out my website](https://lllazarus.netlify.app/)
+
+---
+
+### ⚠️ Disclaimer
+This tool is for educational purposes only. I (the developer) am not responsible for any misuse or damage caused by this tool. Use it at your own risk.
+
+**المسؤولية:** هذه الأداة للأغراض التعليمية فقط، والمطور غير مسؤول عن أي سوء استخدام أو ضرر ينتج عنها. استخدمها على مسؤوليتك الخاصة.
